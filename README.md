@@ -1,2 +1,2 @@
 # DataStruct
-Including the files which are used in the course Datastruct. 
+Including the code files which are commonly used in the course Datastruct. 
